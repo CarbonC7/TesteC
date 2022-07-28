@@ -24,8 +24,8 @@ int main() {
 /*/////////////////////////////////////////////////////////////////////////
 // ANOTAÇÕES                                                             //
 //                                                                       //
-// Foi necessária a alteração da linha 16 e da linha 19 deste código que,//
-// fazem parte do código do exércicio proposto, já que o método criado   //
+// Foi necessária a alteração da linha 16 e da linha 19 que, fazem parte //
+// do código do exércicio proposto, já que o método criado               //
 // necessitava um endereço e um ponteiro, além da alteração da atribuição//
 // das variáveis v e vf para começarem em 1, devido ao caso de estarmos  //
 // trabalhando com fatorial (para não ser necessário tratar o caso 0! a  //
