@@ -79,3 +79,11 @@ int main() {
  
  return 0;
 }
+
+/*/////////////////////////////////////////////////////////////////////////
+// ANOTAÇÕES                                                             //
+//                                                                       //
+// Foi necessária a alteração da linha 76, que parte do código do        //
+// exércicio proposto, já que o método criado não correspondia ao método //
+// chamado.                                                              //
+/////////////////////////////////////////////////////////////////////////*/
